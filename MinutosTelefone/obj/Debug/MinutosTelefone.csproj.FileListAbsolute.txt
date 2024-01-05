@@ -1,0 +1,7 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MinutosTelefone\MinutosTelefone\bin\Debug\MinutosTelefone.exe.config
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MinutosTelefone\MinutosTelefone\bin\Debug\MinutosTelefone.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MinutosTelefone\MinutosTelefone\bin\Debug\MinutosTelefone.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MinutosTelefone\MinutosTelefone\obj\Debug\MinutosTelefone.csproj.AssemblyReference.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MinutosTelefone\MinutosTelefone\obj\Debug\MinutosTelefone.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MinutosTelefone\MinutosTelefone\obj\Debug\MinutosTelefone.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\MinutosTelefone\MinutosTelefone\obj\Debug\MinutosTelefone.pdb
